@@ -1,0 +1,7 @@
+#pytest==5.4.3                ## use this specific version of pytest
+selenium                     ## latest version of selenium
+webdriver-manager
+pytest-html                  ## html report
+pytest-xdist                 ## for parallel testing
+openpyxl                     ## to work with excel files
+allure-pytest                ## to generate allure report
